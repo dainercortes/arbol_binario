@@ -1,0 +1,40 @@
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.exe
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.deps.json
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.runtimeconfig.json
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.dll
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.pdb
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.AssemblyReference.cache
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.GenerateResource.cache
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.AssemblyInfoInputs.cache
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.AssemblyInfo.cs
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.CoreCompileInputs.cache
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.dll
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\refint\Fase4DainerCortes.dll
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.pdb
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.genruntimeconfig.cache
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\ref\Fase4DainerCortes.dll
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Escenario1.resources
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Escenario2.resources
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Login.resources
+C:\Users\daine\OneDrive - Universidad Nacional Abierta y a Distancia\Semestre 5\Estrucutras de datos\Fase4\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Menu.resources
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.exe
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.deps.json
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.runtimeconfig.json
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.dll
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\bin\Debug\net6.0-windows\Fase4DainerCortes.pdb
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.AssemblyReference.cache
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Escenario1.resources
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Escenario2.resources
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Login.resources
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.Menu.resources
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.GenerateResource.cache
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.AssemblyInfoInputs.cache
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.AssemblyInfo.cs
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.csproj.CoreCompileInputs.cache
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.dll
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\refint\Fase4DainerCortes.dll
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.pdb
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\Fase4DainerCortes.genruntimeconfig.cache
+C:\Users\daine\Documentos\c#\Fase4_DainerCortes\Fase4DainerCortes\Fase4DainerCortes\obj\Debug\net6.0-windows\ref\Fase4DainerCortes.dll
